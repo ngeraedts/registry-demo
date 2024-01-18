@@ -1,0 +1,2 @@
+alias RegistryDemo.Subscribers
+alias RegistryDemo.Publishers
